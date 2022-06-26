@@ -1,0 +1,18 @@
+\BOOKMARK [0][-]{chapter.1}{Einleitung}{}% 1
+\BOOKMARK [0][-]{chapter.2}{Grundlagen}{}% 2
+\BOOKMARK [1][-]{section.2.1}{Ausgangsproblemstellung}{chapter.2}% 3
+\BOOKMARK [1][-]{section.2.2}{Mathematische Beschreibung}{chapter.2}% 4
+\BOOKMARK [2][-]{subsection.2.2.1}{Systemmodell}{section.2.2}% 5
+\BOOKMARK [2][-]{subsection.2.2.2}{Messmodell}{section.2.2}% 6
+\BOOKMARK [1][-]{section.2.3}{Zustandssch\344tzung}{chapter.2}% 7
+\BOOKMARK [2][-]{subsection.2.3.1}{Kalman-Filter-Algorithmus}{section.2.3}% 8
+\BOOKMARK [2][-]{subsection.2.3.2}{Bezug zur Bayesschen Sch\344tztheorie}{section.2.3}% 9
+\BOOKMARK [1][-]{section.2.4}{Likelihoodfunktion im Kalman-Filter Kontext}{chapter.2}% 10
+\BOOKMARK [0][-]{chapter.3}{\326konometrisches Anwendungsbeispiel}{}% 11
+\BOOKMARK [1][-]{section.3.1}{Datenbasis}{chapter.3}% 12
+\BOOKMARK [1][-]{section.3.2}{Zinsstrukturmodell}{chapter.3}% 13
+\BOOKMARK [2][-]{subsection.3.2.1}{Ein-Faktor-Fall}{section.3.2}% 14
+\BOOKMARK [2][-]{subsection.3.2.2}{Multi-Faktor-Fall}{section.3.2}% 15
+\BOOKMARK [1][-]{section.3.3}{Parametersch\344tzung}{chapter.3}% 16
+\BOOKMARK [0][-]{chapter*.9}{Literaturverzeichnis}{}% 17
+\BOOKMARK [0][-]{appendix.A}{Anhang}{}% 18

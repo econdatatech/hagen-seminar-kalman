@@ -1,0 +1,252 @@
+\begin{thebibliography}{WMNO06}
+
+\bibitem[AM91]{Anderson1992}
+B.~D.~O. Anderson and J.~B. Moore.
+\newblock {\em {Kalman filtering: Whence, what and whither?}}, volume~19, pages
+  42--54.
+\newblock Springer Berlin Heidelberg, 1991.
+\newblock Available from:
+  \url{users.rsise.anu.edu.au/~john/papers/CHAPTERS/02.PDF}.
+
+\bibitem[AMGC02]{Arulampalam2002ATO}
+Sanjeev Arulampalam, Simon Maskell, Neil Gordon, and Tim Clapp.
+\newblock {A} {T}utorial on {P}article {F}ilters for {O}n-line
+  {N}on-linear/{N}on-{G}aussian {B}ayesian {T}racking.
+\newblock {\em IEEE Transactions on Signal Processing}, 50(2):174--188,
+  February 2002.
+\newblock Available from:
+  \url{http://www.cs.ucsb.edu/~290stat/Papers/ParticleFilterTutorial.pdf}.
+
+\bibitem[AP10a]{Andersen2010a}
+L.~Andersen and V.~Piterbarg.
+\newblock {\em {I}nterest {R}ate {M}odeling. {V}olume 1: {F}oundations and
+  {V}anilla {M}odels}.
+\newblock Atlantic Financial Press, 195 Bickenhall Mansions, Bickenhall Street,
+  London W1U 6BX, UK, first edition, 2010.
+
+\bibitem[AP10b]{Andersen2010b}
+L.~Andersen and V.~Piterbarg.
+\newblock {\em {I}nterest {R}ate {M}odeling. {V}olume 2: {T}erm {S}tructure
+  {M}odels}.
+\newblock Atlantic Financial Press, 195 Bickenhall Mansions, Bickenhall Street,
+  London W1U 6BX, UK, first edition, 2010.
+
+\bibitem[BM07]{Damiano2007}
+Damiano Brigo and Fabio Mercurio.
+\newblock {\em {I}nterest {R}ate {M}odels - {T}heory and {P}ractice}.
+\newblock Springer, Berlin, Heidelberg, New York, third edition, 2007.
+
+\bibitem[Bol01]{Bolder2001}
+David~Jamieson Bolder.
+\newblock {A}ffine {T}erm-{S}tructure {M}odels: {T}heory and {I}mplementation.
+\newblock Working Papers~15, Bank of Canada, 2001.
+\newblock Available from:
+  \url{http://www.bankofcanada.ca/en/res/wp/2001/wp01-15a.pdf}.
+
+\bibitem[Cha04]{Chance2004}
+Don~M. Chance.
+\newblock {A}nother look at the forward-futures price differential in libor
+  markets - {W}orking {P}aper.
+\newblock Technical report, Louisiana State University, Department of Finance,
+  2163 Patrick F. Taylor Hall, Baton Rouge, LA 70803, USA, June 2004.
+\newblock Available from:
+  \url{http://www.bus.lsu.edu/academics/finance/research/working\%20papers/AnotherLookattheFFDiff.pdf}.
+
+\bibitem[CIR85]{Cox1985}
+John~C. Cox, Jonathan~E. Ingersoll, and Stephen~A. Ross.
+\newblock {A} {T}heory of the {T}erm {S}tructure of {I}nterest {R}ates.
+\newblock {\em Econometrica}, 53(2):385--407, March 1985.
+\newblock Available from: \url{http://www.javaquant.net/papers/CIR1985.pdf}.
+
+\bibitem[DK96]{Duffie1996}
+D.~Duffie and R.~Kan.
+\newblock {A YIELD-FACTOR MODEL OF INTEREST RATES}.
+\newblock {\em Mathematical Finance}, 6:379--406, Oct 1996.
+\newblock Available from:
+  \url{www.darrellduffie.com/uploads/pubs/DuffieKan1996.pdf}.
+
+\bibitem[DLR77]{Dempster1977}
+A.~P. Dempster, N.~M. Laird, and D.~B. Rubin.
+\newblock {Maximum Likelihood from Incomplete Data via the EM Algorithm}.
+\newblock {\em Journal of the Royal Statistical Society. Series B
+  (Methodological)}, 39(1):1--38, 1977.
+\newblock Available from: \url{http://web.mit.edu/6.435/www/Dempster77.pdf}.
+
+\bibitem[DS04]{Duffee2004}
+Gregory~R. Duffee and Richard~H. Stanton.
+\newblock {E}stimation of {D}ynamic {T}erm {S}tructure {M}odels - {W}orking
+  {P}aper.
+\newblock Technical report, Haas School of Business, U.C. Berkeley, 545 Student
+  Services Building 1900, Berkeley, CA 94720-1900, USA, March 2004.
+\newblock Available from:
+  \url{http://faculty.haas.berkeley.edu/stanton/papers/pdf/affine.pdf}.
+
+\bibitem[Gau09]{Gauss1809}
+Carl~Friedrich Gauss.
+\newblock {\em Theoria motus corporum coelestium in sectionibus conicis solem
+  ambientium}.
+\newblock Friedrich Perthes and I.H. Besser, Hamburg, 1809.
+\newblock Available from:
+  \url{http://books.google.com.au/books/download/Theoria_motus_corporum_coelestium_in_sec.pdf?id=ORUOAAAAQAAJ\&output=pdf\&sig=ACfU3U1__v7ZeP-_3-pGGqg1cQBCf00GTw}.
+
+\bibitem[Hug03]{Hughston2003}
+Lane Hughston.
+\newblock {T}he {P}ast, {P}resent and {F}uture of {T}erm {S}tructure
+  {M}odelling.
+\newblock In Peter Field, editor, {\em {M}odern {R}isk {M}anagement: {A}
+  {H}istory}, chapter~7, pages 107--132. Risk Books, Haymarket House, 28-29
+  Haymarket, London, SW1Y 4RX, UK, 2003.
+\newblock Available from:
+  \url{http://www.mth.kcl.ac.uk/finmath/articles/LPH_risk.pdf}.
+
+\bibitem[Idl05]{Idler2005}
+Corvin Idler.
+\newblock {V}isuelle probabilistische {M}ehrobjektverfolgung im {R}ahmen der
+  {F}ahrzeugumfeldbeobachtung.
+\newblock Master's thesis, Fakult{\"a}t f{\"u}r Informatik der Universit{\"a}t
+  Koblenz-Landau, Jul 2005.
+\newblock Available from:
+  \url{http://userpages.uni-koblenz.de/~idler/da-00.pdf}.
+
+\bibitem[Idl11]{Idler2011}
+Corvin Idler.
+\newblock {Z}insstrukturmodelle im {HJM}-{F}ramework, {B}achelor's {T}hesis,
+  {F}akult{\"a}t f{\"u}r {W}irtschaftswissenschaft der {F}ern-{U}niversit{\"a}t
+  {H}agen, Sep 2011.
+\newblock Available from:
+  \url{http://userpages.uni-koblenz.de/~idler/bachelor.pdf}.
+
+\bibitem[K{\'a}l60]{Kalman1960}
+Rudolph~Emil K{\'a}lm{\'a}n.
+\newblock A new approach to linear filtering and prediction problems.
+\newblock {\em Transactions of the ASME--Journal of Basic Engineering},
+  82(Series D):35--45, 1960.
+\newblock Available from:
+  \url{www.cs.unc.edu/~welch/kalman/media/pdf/Kalman1960.pdf}.
+
+\bibitem[KB61]{Kalman1961}
+R.~E. K{\'a}lm{\'a}n and R.~S. Bucy.
+\newblock {New results in linear filtering and prediction theory}.
+\newblock {\em Transactions of the ASME. Series D, Journal of Basic
+  Engineering}, 83:95--107, 1961.
+
+\bibitem[Leg05]{Legendre1805}
+Adrien~Marie Legendre.
+\newblock {\em Nouvelles m{\'e}thodes pour la d{\'e}termination des orbites des
+  com\`etes}.
+\newblock F. Didot, Paris, 1805.
+\newblock Available from:
+  \url{http://books.google.com.au/books/download/Nouvelles_m\%C3\%A9thodes_pour_la_d\%C3\%A9terminati.pdf?id=spcAAAAAMAAJ\&output=pdf\&sig=ACfU3U0QLegNSZYYLme09hI7nrHxXbZtGg}.
+
+\bibitem[May79]{Maybeck79}
+Peter~S. Maybeck.
+\newblock {\em Stochastic models, estimation, and control, Vol.1}, volume 141
+  of {\em Mathematics in Science and Engineering}.
+\newblock Academic Press Inc., 111 Fifth Avenue, 10003 New York, USA, 1979.
+\newblock Available from:
+  \url{http://www.cs.unc.edu/~welch/kalman/media/pdf/maybeck_ch1.pdf}.
+
+\bibitem[Maz07]{Mazzoni2007}
+Thomas Mazzoni.
+\newblock {\em Stetig/diskrete {Z}ustandsraummodelle dynamischer
+  {W}irtschaftsprozesse}.
+\newblock Shaker Verlag, Aachen, 1 edition, 2007.
+
+\bibitem[O'R96]{OReilly1996TLM}
+Randall~C. O'Reilly.
+\newblock {\em {T}he {L}eabra {M}odel of {N}eural {I}nteractions and {L}earning
+  in the {N}eocortex}.
+\newblock PhD thesis, Department of Psychology, Carnegie Mellon University,
+  Pittsburgh, PA, USA, 1996.
+\newblock Available from:
+  \url{ftp://grey.colorado.edu/pub/oreilly/thesis/oreilly_thesis.all.pdf}.
+
+\bibitem[Reb04]{Rebonato2003}
+Riccardo Rebonato.
+\newblock {I}nterest-{R}ate {T}erm-{S}tructure {P}ricing {M}odels: {A}
+  {R}eview.
+\newblock {\em Proceedings of the Royal Society: Mathematical, Physical and
+  Engineering Sciences}, 460(2043):667--728, 2004.
+\newblock Available from:
+  \url{http://www.riccardorebonato.co.uk/papers/IRSurvey.pdf}.
+
+\bibitem[Rud00]{Rudolf2000}
+Markus Rudolf.
+\newblock {\em Zinsstrukturmodelle}.
+\newblock Physica-Verlag, Tiergartenstra{\ss}e 17, 69121 Heidelberg, D, first
+  edition, 2000.
+
+\bibitem[Sch04]{Schmitt2004VPS}
+Thorsten Schmitt.
+\newblock {\em {V}ision-based {P}robabilistic {S}tate {E}stimation for
+  {C}ooperating {A}utonomous {R}obots}.
+\newblock PhD thesis, Technische Universit\"{a}t M\"{u}nchen, Fakult\"{a}t
+  f\"{u}r Informatik, Universit\"{a}tsbibliothek, Arcisstr. 21, D-80333
+  M\"{u}nchen, May 2004.
+\newblock Available from:
+  \url{http://tumb1.biblio.tu-muenchen.de/publ/diss/in/2004/schmitt.html}.
+
+\bibitem[SGA08]{Mohinder2008}
+Mohinder S.~Grewal and Angus~P. Andrews.
+\newblock {\em {K}alman {F}iltering: {T}heory and {P}ractice {U}sing {MATLAB}}.
+\newblock John Wiley \& Sons, Inc., Hoboken, New Jersey, third edition, 2008.
+
+\bibitem[SM85]{Schmidt1985}
+Stanley~F. Schmidt and Leonard~A. McGee.
+\newblock Discovery of the {K}alman {F}ilter as a {P}ractical {T}ool for
+  {A}erospace and {I}ndustry.
+\newblock Technical Memorandum NASA-TM-86847, National Aeronautics and Space
+  Administration, November 1985.
+\newblock Available from:
+  \url{http://ntrs.nasa.gov/archive/nasa/casi.ntrs.nasa.gov/19860003843_1986003843.pdf}.
+
+\bibitem[Sor70]{Sorenson1970}
+Harold~Walter Sorenson.
+\newblock Least-squares estimation: from gauss to kalman.
+\newblock {\em Spectrum, IEEE}, 7:63--68, Jul 1970.
+\newblock Available from:
+  \url{www.cs.unc.edu/~welch/kalman/media/pdf/Sorenson1970.pdf}.
+
+\bibitem[Swe58]{Swerling1958}
+Peter Swerling.
+\newblock A proposed stagewise differential correction procedure for satellite
+  tracking and prediction.
+\newblock Rand Corporation Report P-1292, RAND, Santa Monica, Calif, USA, Jan
+  1958.
+
+\bibitem[Swe59]{Swerling1959}
+Peter Swerling.
+\newblock A proposed stagewise differential correction procedure for satellite
+  tracking and prediction.
+\newblock {\em Journal of Astronautical Sciences}, 6:46--52, 1959.
+
+\bibitem[Vas77]{Vasicek1977}
+Oldrich Vasicek.
+\newblock An {E}quilibrium {C}haracterization of the {T}erm {S}tructure.
+\newblock {\em Journal of Financial Economics}, 5(2):177--188, November 1977.
+\newblock Available from:
+  \url{http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.164.447&rep=rep1&type=pdf}.
+
+\bibitem[WB06]{Welch2006}
+Greg Welch and Gary Bishop.
+\newblock An introduction to the kalman filter.
+\newblock Technical Report TR-95-041, Department of Computer Science,
+  University of North Carolina at Chapel Hill, July 2006.
+\newblock Available from:
+  \url{www.cs.unc.edu/~welch/media/pdf/kalman_intro.pdf}.
+
+\bibitem[Wil07]{Wilmott2007}
+Paul Wilmott.
+\newblock {\em Paul {W}ilmott {I}ntroduces {Q}uantitative {F}inance}.
+\newblock John Wiley \& Sons Ltd, The Atrium, Southern Gate, Chichester, West
+  Sussex PO19 8SQ, UK, second edition, 2007.
+
+\bibitem[WMNO06]{Waltz2006}
+R.~A. Waltz, J.~L. Morales, J.~Nocedal, and D.~Orban.
+\newblock An interior algorithm for nonlinear optimization that combines line
+  search and trust region steps.
+\newblock Technical report, Mathematical Programming 107, 2006.
+\newblock Available from:
+  \url{http://www.ece.northwestern.edu/~nocedal/PDFfiles/directpaper.pdf}.
+
+\end{thebibliography}

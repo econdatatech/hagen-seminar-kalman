@@ -1,0 +1,19 @@
+\select@language {ngerman}
+\contentsline {chapter}{\numberline {1}Einleitung}{3}{chapter.1}
+\contentsline {chapter}{\numberline {2}Grundlagen}{5}{chapter.2}
+\contentsline {section}{\numberline {2.1}Ausgangsproblemstellung}{5}{section.2.1}
+\contentsline {section}{\numberline {2.2}Mathematische Beschreibung}{5}{section.2.2}
+\contentsline {subsection}{\numberline {2.2.1}Systemmodell}{5}{subsection.2.2.1}
+\contentsline {subsection}{\numberline {2.2.2}Messmodell}{6}{subsection.2.2.2}
+\contentsline {section}{\numberline {2.3}Zustandssch{\"a}tzung}{6}{section.2.3}
+\contentsline {subsection}{\numberline {2.3.1}Kalman-Filter-Algorithmus}{9}{subsection.2.3.1}
+\contentsline {subsection}{\numberline {2.3.2}Bezug zur Bayesschen Sch{\"a}tztheorie}{9}{subsection.2.3.2}
+\contentsline {section}{\numberline {2.4}Likelihoodfunktion im Kalman-Filter Kontext}{11}{section.2.4}
+\contentsline {chapter}{\numberline {3}{\"O}konometrisches Anwendungsbeispiel}{12}{chapter.3}
+\contentsline {section}{\numberline {3.1}Datenbasis}{12}{section.3.1}
+\contentsline {section}{\numberline {3.2}Zinsstrukturmodell}{13}{section.3.2}
+\contentsline {subsection}{\numberline {3.2.1}Ein-Faktor-Fall}{13}{subsection.3.2.1}
+\contentsline {subsection}{\numberline {3.2.2}Multi-Faktor-Fall}{14}{subsection.3.2.2}
+\contentsline {section}{\numberline {3.3}Parametersch{\"a}tzung}{16}{section.3.3}
+\contentsline {chapter}{Literaturverzeichnis}{17}{chapter*.9}
+\contentsline {chapter}{\numberline {A}Anhang}{21}{appendix.A}
